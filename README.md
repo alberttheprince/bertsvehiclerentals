@@ -12,7 +12,6 @@ Video Preview: https://youtu.be/1TqnTbAay_U
 
 # Credits:
 - Imperial Studios for creating the interior - https://imperial-studio.tebex.io/
-- FalseHopeDesigns for exterior map work - https://falsehopedesigns.tebex.io/
 - Taco (Discord: Static666) for the custom Mule
 - VerpiModz for inspiration from their original car rental MLO in this area - https://www.gta5-mods.com/users/VerpiModz
 - Popcorn RP for branding/visual reworks, and supporting free releases like this - https://discord.gg/popcornroleplay
