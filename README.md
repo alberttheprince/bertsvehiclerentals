@@ -6,8 +6,8 @@ Video Preview: https://youtu.be/1TqnTbAay_U
 
 # Features:
 - Interior and parking lot modified to Berts branding
-- New Mule included, with Berts branding (useful for vehicle/truck rental scripts)
-- Rental Bus retexture (in the berts_car_rental Stream file)
+- New Mule included, with Berts branding (useful for vehicle/truck rental scripts) (spawn code: bertsmule)
+- Rental Bus retexture (in the berts_car_rental Stream file) 
 - New interior for rental office
 
 # Credits:
